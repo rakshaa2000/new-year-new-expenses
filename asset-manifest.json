@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/new-year-new-expenses/static/css/main.60811a75.chunk.css",
+    "main.js": "/new-year-new-expenses/static/js/main.618667d4.chunk.js",
+    "main.js.map": "/new-year-new-expenses/static/js/main.618667d4.chunk.js.map",
+    "runtime-main.js": "/new-year-new-expenses/static/js/runtime-main.adc60c9c.js",
+    "runtime-main.js.map": "/new-year-new-expenses/static/js/runtime-main.adc60c9c.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/new-year-new-expenses/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f43ae6e3.chunk.js": "/new-year-new-expenses/static/js/2.f43ae6e3.chunk.js",
+    "static/js/2.f43ae6e3.chunk.js.map": "/new-year-new-expenses/static/js/2.f43ae6e3.chunk.js.map",
+    "index.html": "/new-year-new-expenses/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/new-year-new-expenses/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.60811a75.chunk.css.map": "/new-year-new-expenses/static/css/main.60811a75.chunk.css.map",
+    "static/js/2.f43ae6e3.chunk.js.LICENSE.txt": "/new-year-new-expenses/static/js/2.f43ae6e3.chunk.js.LICENSE.txt",
+    "static/media/undraw_Payments_re_77x0.2a8e6932.svg": "/new-year-new-expenses/static/media/undraw_Payments_re_77x0.2a8e6932.svg",
+    "static/media/undraw_transfer_money_rywa.d414000c.svg": "/new-year-new-expenses/static/media/undraw_transfer_money_rywa.d414000c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adc60c9c.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f43ae6e3.chunk.js",
+    "static/css/main.60811a75.chunk.css",
+    "static/js/main.618667d4.chunk.js"
+  ]
+}
